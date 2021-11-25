@@ -1,0 +1,11 @@
+C:\Users\Salman\source\repos\NotizProgramm\bin\Debug\NotizProgramm.exe.config
+C:\Users\Salman\source\repos\NotizProgramm\bin\Debug\NotizProgramm.exe
+C:\Users\Salman\source\repos\NotizProgramm\bin\Debug\NotizProgramm.pdb
+C:\Users\Salman\source\repos\NotizProgramm\obj\Debug\NotizProgramm.Form1.resources
+C:\Users\Salman\source\repos\NotizProgramm\obj\Debug\NotizProgramm.Properties.Resources.resources
+C:\Users\Salman\source\repos\NotizProgramm\obj\Debug\NotizProgramm.csproj.GenerateResource.cache
+C:\Users\Salman\source\repos\NotizProgramm\obj\Debug\NotizProgramm.csproj.CoreCompileInputs.cache
+C:\Users\Salman\source\repos\NotizProgramm\obj\Debug\NotizProgramm.exe
+C:\Users\Salman\source\repos\NotizProgramm\obj\Debug\NotizProgramm.pdb
+C:\Users\Salman\source\repos\NotizProgramm\obj\Debug\NotizProgramm.csproj.AssemblyReference.cache
+C:\Users\Salman\source\repos\NotizProgramm\obj\Debug\NotizProgramm.csproj.SuggestedBindingRedirects.cache
